@@ -1,6 +1,6 @@
 CEF488 GROUP 8  Networked Real-Time Temperature Monitoring System
 
-A physical temperature sensor that sends live readings over a network, triggers alerts when things get too hot, and logs everything to a file. Built from scratch — hardware wiring to networked Python scripts running across multiple machines.
+A physical temperature sensor that sends live readings over a network, triggers alerts when things get too hot, and logs everything to a file. Built from scratch ie from hardware wiring to networked Python scripts running across multiple machines.
 
 What It Does
 An LM35 sensor on an Arduino UNO reads room temperature every 2 seconds
